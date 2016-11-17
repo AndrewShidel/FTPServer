@@ -1,0 +1,64 @@
+Test9/25/16 20:00:00.0002 (SUCCESS) Opened log file
+9/25/16 20:00:00.0002 (SUCCESS) Opening connection on 144.118.149.156:7341
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55095 has connected.
+9/25/16 20:00:00.0002 (SUCCESS) A new user joined the server.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "220 Welcome to Andrew Shidel's FTP Server!" to null.
+9/25/16 20:00:00.0002 (SUCCESS) Received "USER cs472" from null.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "331 Please specify the password." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASS hw2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "230 Password Accepted." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) User cs472 is logged in.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/FTPServer3" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "TYPE I" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 Type set to I" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55096)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,57" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/FTPClient" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/FTPClient" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55099)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,60" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/FTPClient2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/FTPClient2" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55102)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,63" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55107 has connected.
+9/25/16 20:00:00.0002 (SUCCESS) A new user joined the server.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "220 Welcome to Andrew Shidel's FTP Server!" to null.
+9/25/16 20:00:00.0002 (SUCCESS) Received "USER cs472" from null.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "331 Please specify the password." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASS hw2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "230 Password Accepted." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) User cs472 is logged in.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/FTPClient2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "TYPE A" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 Type set to I" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55108)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,69" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "RETR build.xml" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Opening BINARY mode data connection for build.xml (5002)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Transfer complete." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "null" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55095 has disconnected.

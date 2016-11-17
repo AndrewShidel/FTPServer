@@ -1,0 +1,42 @@
+Test9/25/16 20:00:00.0002 (SUCCESS) Opened log file
+9/25/16 20:00:00.0002 (SUCCESS) Opening connection on 144.118.149.156:7341
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55084 has connected.
+9/25/16 20:00:00.0002 (SUCCESS) A new user joined the server.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "220 Welcome to Andrew Shidel's FTP Server!" to null.
+9/25/16 20:00:00.0002 (SUCCESS) Received "USER cs472" from null.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "331 Please specify the password." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASS hw2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "230 Password Accepted." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) User cs472 is logged in.
+9/25/16 20:00:00.0002 (SUCCESS) Received "SYST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "502 Command not implemented." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "FEAT" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "502 Command not implemented." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/FTPServer3" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "EPSV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "229 Entering extended Passive Mode (|||55085|)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD bin" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/FTPServer3/bin" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "EPSV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "229 Entering extended Passive Mode (|||55087|)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "EPSV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "229 Entering extended Passive Mode (|||55093|)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "QUIT" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "221 Goodbye." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55084 has disconnected.

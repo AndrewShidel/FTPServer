@@ -1,0 +1,31 @@
+
+How to Build:
+    "make build"
+
+How to run:
+    "./FTPServer [port] [ssl port]"
+
+Note that the server will read configuration from a config file called ftpserverd.conf which should be in the root directory of this project.
+
+This server has been tested using my FTP client from HW2, the OSX buildin command line FTP client, and the FileZilla FTP client (with SSL both on and off).
+
+File Structure:
+.
+├── FTPServer - A Script which compiles (if needed) and runs the server.
+├── makefile - Contains the build make target.
+├── README - This file
+├── src - All Source Files
+│   └── com
+│       └── ftpServer
+│           ├── FTPServer.java - Listens for new connections
+│           ├── Config.java - Handles parsing and storing the configuration.
+│           ├── Logger.java - Logs server information.
+│           ├── Main.java - Handles command arguents, and starts the server.
+│           └── SessionHandler.java - Handles session specific actions (most of the implementation is here).
+├── logs - Location of output files (empty now, but will fill once server is used)
+├── exampleLogs - Exmaple log file I have generated to prove that the server workds.
+├── bin - All compiled files
+│   ├── FTPServer.jar - The executable jar created from make.
+│   ├── MANIFEST.MF - The manifest used to create the jar.
+└── ftpserverd.conf - The configuration file to read from.
+

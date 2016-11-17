@@ -1,0 +1,92 @@
+Test9/25/16 20:00:00.0002 (SUCCESS) Opened log file
+9/25/16 20:00:00.0002 (SUCCESS) Opening connection on 144.118.149.156:7341
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55062 has connected.
+9/25/16 20:00:00.0002 (SUCCESS) A new user joined the server.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "220 Welcome to Andrew Shidel's FTP Server!" to null.
+9/25/16 20:00:00.0002 (SUCCESS) Received "USER cs472" from null.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "331 Please specify the password." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASS hw2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "230 Password Accepted." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) User cs472 is logged in.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PBSZ 0" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "502 Command not implemented." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PROT P" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "502 Command not implemented." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/FTPServer3" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "TYPE I" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 Type set to I" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55063)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,24" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/ElectricNetwork" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55066)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,27" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/ElectricNetwork/src" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/ElectricNetwork/src" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55069)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,30" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/ElectricNetwork/src/Examples" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/ElectricNetwork/src/Examples" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55072)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,33" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/ElectricNetwork/src/Gates" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PWD" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "257 "/Users/andrew/projects/ElectricNetwork/src/Gates" is the current directory" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55076)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,37" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "LIST" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Here comes the directory listing." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Directory send OK." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55079 has connected.
+9/25/16 20:00:00.0002 (SUCCESS) A new user joined the server.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "220 Welcome to Andrew Shidel's FTP Server!" to null.
+9/25/16 20:00:00.0002 (SUCCESS) Received "USER cs472" from null.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "331 Please specify the password." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASS hw2" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "230 Password Accepted." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) User cs472 is logged in.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PBSZ 0" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "502 Command not implemented." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PROT P" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "502 Command not implemented." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "CWD /Users/andrew/projects/ElectricNetwork/src/Gates" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "250 Directory successfully changed." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "TYPE A" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 Type set to I" to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PASV" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "227 Entering  Passive Mode (0,0,0,0,0,55080)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "PORT 144,118,149,156,215,41" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "200 PORT command successful. Consider using PASV." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "RETR And.java" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "150 Opening BINARY mode data connection for And.java (50)." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Sending "226 Transfer complete." to cs472.
+9/25/16 20:00:00.0002 (SUCCESS) Received "null" from cs472.
+9/25/16 20:00:00.0002 (SUCCESS) /144.118.149.156:55062 has disconnected.
